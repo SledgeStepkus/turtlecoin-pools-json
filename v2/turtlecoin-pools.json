@@ -28,6 +28,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "FairCrypt.com",
+      "url": "https://trtl.faircrypt.com/",
+      "api": "https://trtl-api.faircrypt.com/",
+      "type": "forknote",
+      "miningAddress": "trtl.faircrypt.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "FairCryptoCoins TurtleCoin Pool",
       "url": "https://turtlepool.faircryptocoins.xyz/",
       "api": "https://turtlepoolapi.faircryptocoins.xyz/",
